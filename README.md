@@ -3,7 +3,7 @@ Wayne's Fomightiest Blog
 This is a port of my blog to the [Pelican](http://blog.getpelican.com/)
 blogging platform.  It doesn't contain the 'output' or '_build' direoctories pelician will generate.
 
-It Is based on combining Pythononic Perambulations and the Pelican-Bootstrap 3 theme  <---add the links
+It Is based on combining Pythonic Perambulations and the Pelican-Bootstrap 3 theme  <---add the links
 
 Requirements
 ------------
