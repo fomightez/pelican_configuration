@@ -1,9 +1,9 @@
 Wayne's Fomightiest Blog
------------------------
+------------------------
 This is a port of my blog to the [Pelican](http://blog.getpelican.com/)
-blogging platform.  It doesn't contain the 'output' or '_build' direoctories pelician will generate.
+blogging platform.  It doesn't contain the 'output' or '_build' direoctories pelican will generate.
 
-It Is based on combining Pythonic Perambulations and the Pelican-Bootstrap 3 theme  <---add the links
+It is based on combining Pythononic Preambulations and the Pelican-Bootstrap 3 theme  <---add the links
 
 Requirements
 ------------
@@ -22,7 +22,7 @@ Requirements
   the static paths (downloads, images, figures, etc.) to appear in the right
   place, Pelican 3.3+ must be used.
 
--The Pelican Boostrap 3 theme <---add links to my varation
+-The Pelican Boostrap 3 theme <---add links to my variation
 
 MAY NEED DISQUS INFO BELOW BUT REST HAS BEEN INCORPORATED IN MY CONFIGURATION OF PELICAN AND MY FORK OF THE BOOTSTRAP 3 THEME
 - Recent version of
