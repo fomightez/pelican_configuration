@@ -1,7 +1,7 @@
 Wayne's Fomightiest Blog
 ------------------------
 This is a port of my blog to the [Pelican](http://blog.getpelican.com/)
-blogging platform.  It doesn't contain the 'output' or '_build' direoctories pelican will generate.
+blogging platform.  It doesn't contain the 'output' or '_build' directories pelican will generate.
 
 It is based on  the [Pelican Boostrap 3 theme](https://github.com/DandyDev/pelican-bootstrap3).
 
